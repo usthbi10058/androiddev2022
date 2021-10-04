@@ -12,4 +12,4 @@ Student Info
 
 * Name: Trần Trung Hiếu
 * ID: BI10-058
-* Group ID: 7
+* Group ID: 07
